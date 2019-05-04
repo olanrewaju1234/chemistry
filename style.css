@@ -1,0 +1,61 @@
+.navbar-brand {
+    font-size: 60px;
+    font-weight: 400;
+    font-family: Lato, HelveticaNeueBold, HelveticaNeue-Bold, "Helvetica Neue Bold", HelveticaBold, Helvetica-Bold, "Helvetica Bold", HelveticaNeue, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #333333;
+}
+ .first {
+     background: url(https://cdn.pixabay.com/photo/2015/04/26/13/47/chemistry-740453__340.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+ .second {
+     background: url(https://cdn.pixabay.com/photo/2017/02/01/13/53/analysis-2030266__340.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+ .third {
+     background: url(https://media.gettyimages.com/photos/laboratory-picture-id629942998?s=612x612);
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+.color {
+    color: #BEAB72;
+}
+.bg {
+    background:#F0F0F0;
+    height: 80px;
+    margin-top: 110px; 
+}
+.carousel-item {
+    height: 500px;
+}
+#txt {
+    padding-top: 10px;
+    font-size: 50px;
+}
+ul {
+  list-style: none;
+}
+
+ul li::before {
+  content: "\2022";
+  color: blue;
+  font-weight: bold;
+  display: inline-block; 
+  width: 1em;
+  margin-left: -1em;
+}
+.display-3 {
+    font-family: 'Righteous', cursive;
+    padding-top: 70gitpx;
+}
+.display-3 p {
+font-family: 'Righteous', cursive;
+}
+.bold {
+    font-size: 2rem;
+}
+#body {
+    background: rgba(0, 0, 0, 0.103);
+}
