@@ -46,12 +46,11 @@ ul li::before {
   width: 1em;
   margin-left: -1em;
 }
-.display-3 {
+.display-4 {
     font-family: 'Righteous', cursive;
     padding-top: 40px;
-    font
 }
-.display-3 p {
+.display-4 p {
 font-family: 'Righteous', cursive;
 }
 .bold {
